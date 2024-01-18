@@ -18,8 +18,13 @@ input{
     
     width: 100%;
     height: 800px;
-    background-color: aqua;
+    background-color: rgb(58, 156, 156);
     border:1px solid black;
+    /* background-image: url("https://tse2.mm.bing.net/th?id=OIP.VjurG-n7LRijLsBsWBl-WAAAAA&pid=Api&P=0&h=180"); */
+    background-image: url("https://images.pexels.com/photos/5717411/pexels-photo-5717411.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
 }
 .all-items{
     margin-top: 20px 20px;
@@ -29,6 +34,7 @@ input{
 .kg-row{
     margin:10px 20px;
     padding:5px;
+    color:#a815c9;
 }
 .kg-button{
     min-width:80px ;
